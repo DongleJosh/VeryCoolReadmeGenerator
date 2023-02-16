@@ -1,23 +1,43 @@
-# Very Cool README Generator
+# fsf
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Challenge Week 9 I think. This was very confusing and I had a lot of help. I'm still trying to get my money back, please help me Melissa
+
+sd
+
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [License](#license)
+- [Questions](#questions)
 
 ## Installation
-N/A
+
+f
 
 ## Usage
-Generate READMEs for your $12,000 coding class that put you in crippling debt
 
-## Credits
-N/A
+s
+
+## Contributing
+
+s
+
+## Tests
+
+s
 
 ## License
-MIT License
 
-Badges
-N/A
+This project is licensed under the MIT license.
 
-## Features
+## Questions
 
-Node.js functions and stuff
+If you have any questions, please contact me using the following info:
+
+- [GitHub](https://github.com/DongleJosh)
+- [Email](joshuajamesromani@gmail.com)
