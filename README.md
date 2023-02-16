@@ -1,10 +1,10 @@
-# fsf
+# Very Cool README Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-sd
+Challenge Week 9 using node.js to write a readme generator. I am very confused and had a lot of help. I'd still like my money back. Please help me Melissa.
 
 ## Table of Contents
 
@@ -17,19 +17,19 @@ sd
 
 ## Installation
 
-f
+N/A
 
 ## Usage
 
-s
+Make super cool READMEs for your $12,000 coding course that has put your in crippling debt
 
 ## Contributing
 
-s
+Joshua Romani
 
 ## Tests
 
-s
+N/A
 
 ## License
 
@@ -40,4 +40,4 @@ This project is licensed under the MIT license.
 If you have any questions, please contact me using the following info:
 
 - [GitHub](https://github.com/DongleJosh)
-- [Email](joshuajamesromani@gmail.com)
+- [Email](JoshuaJamesRomani@gmail.com)
