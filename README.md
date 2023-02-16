@@ -4,6 +4,8 @@
 
 ## Description
 
+VIDEO LINK: https://drive.google.com/file/d/19G0YaJ7NfEhhtoErsVlq5nEGDrVmR34F/view
+
 Challenge Week 9 using node.js to write a readme generator. I am very confused and had a lot of help. I'd still like my money back. Please help me Melissa.
 
 ## Table of Contents
