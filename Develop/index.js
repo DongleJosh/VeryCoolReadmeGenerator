@@ -26,7 +26,7 @@ inquirer.prompt([
   {
     type: 'input',
     name: 'contributing',
-    message: 'Provide contribution guidelines for your project:',
+    message: 'Provide names of all who contributed to this project:',
   },
   {
     type: 'input',
